@@ -29,5 +29,3 @@ This project demonstrates the use of Object-Oriented Programming (OOP) principle
 
 ---
 
-## 🗂️ Project Structure
-
